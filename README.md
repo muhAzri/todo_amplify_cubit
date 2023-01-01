@@ -1,6 +1,5 @@
 
-# Todo App (Amplify - Bloc State Management) //API Consumed
-
+# Todo App (Amplify - Bloc State Management) AWS Powered
 This Flutter todo app was created as a learning project to explore the capabilities of AWS Amplify. By building a fully functional app that utilizes various features of the platform, the goal was to gain a deeper understanding of how to use Amplify to build and deploy cloud-powered applications. Along the way, the development process also provided an opportunity to learn about the BLoC pattern and how it can be used to manage state in a Flutter app. Overall, the project was designed to serve as a learning tool for those interested in using Amplify and the BLoC pattern in their own projects.
 
 ## Screenshoots
