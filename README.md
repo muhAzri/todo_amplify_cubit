@@ -18,6 +18,8 @@ This app uses the following dependencies:
 
 
 ## Installation
+You can simply download the apk on the repository or you also can run the flutter code by following instruction below:
+
 To install and run this app, follow these steps:
 - Clone this repository to your local machine
 - Open the project in your preferred code editor
